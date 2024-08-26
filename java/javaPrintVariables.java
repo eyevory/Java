@@ -40,7 +40,26 @@ public class javaPrintVariables {
 
     int z = 10;
     System.out.printf("%.1f%n", x + z * y);
+    
+    boolean isCodingFun = true;
+    boolean funOutDoorDay = false;
+        System.out.println("Is codng fun? ");
+        System.out.println(isCodingFun);
+        System.out.println("Is it fun to go outside against your will? ");
+        System.out.println(funOutDoorDay);
 
+    // Example 1
+    // Variables for data types
+    int items = 54;
+    float costPerItem = 6.99f;
+    float totalCost = items * costPerItem;
+    char currency = '$';
+    
+    // Print Variables
+        System.out.println("Number of items: " +items);
+        System.out.println("Cost per item: " +costPerItem + currency);
+        System.out.println("Total cost: " +totalCost + currency);
+    
     }   
     public static void printFloat(float value) {
         if (value == Math.floor(value)) {

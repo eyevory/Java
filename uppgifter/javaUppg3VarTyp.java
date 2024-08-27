@@ -35,7 +35,7 @@ public class javaUppg3VarTyp {
         // Gives Swap1 as the byte value of integer Var5
         byte Swap1 = Var5.byteValue();
         
-        //Can be typed into a single line without the previous byte variable
+        // Can be typed into a single line without the previous byte variable
         //System.out.println("Var5 int to byte: " +Var5.byteValue());
         
         // Print our Swap1 byte variable

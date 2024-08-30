@@ -14,7 +14,7 @@ public class javaProvUppg1 {
         
         // Print variable math outcomes
         System.out.println("\nAddition: " +(num1 + num5));
-        System.out.println("Subtraction: " +(num4 + num2));
+        System.out.println("Subtraction: " +(num4 - num2));
         System.out.println("Division: " +(num3 / num1));
         System.out.println("Multiplication: " +(num5 * num4));
     }

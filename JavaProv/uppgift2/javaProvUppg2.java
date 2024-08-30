@@ -28,7 +28,7 @@ public class javaProvUppg2 {
         }
         
         // Print out sums divided with each other in float for accuracy
-        System.out.println("\nSecond array sum divided by first: " +((float)sum2 / (float)sum1));
+        System.out.println("\nSecond array sum divided by first: " +((float)sum2 / sum1));
         
         // BONUS: Remove specific element in array with loop
         // Create new array one size less than original
